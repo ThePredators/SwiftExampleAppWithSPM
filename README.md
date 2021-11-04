@@ -8,9 +8,9 @@ I added Alamofire as an example to illustrate how SPM works for iOS Apps.
 To add another package go to :
 
 1. File -> Add Packages -> Paste the url of your package
-![alt text](screenshots/1.png "Phase 1")
+![alt text](screenshots/2.png "Phase 1")
 2. Click add package
-![alt text](screenshots/2.png "Phase 2")
+![alt text](screenshots/1.png "Phase 2")
 3. You can now import your package.
 
 ## More :
