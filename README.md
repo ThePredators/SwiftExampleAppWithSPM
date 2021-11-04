@@ -1,6 +1,8 @@
 # SwiftExampleAppWithSPM
 A Swift example App using SPM (using Storyboard no SwiftUI)
 
+If you want to use SwiftUI, check this --> [SwiftUI + SPM](https://github.com/ThePredators/swift5-module-template)
+
 
 ## How to use ?
 I added Alamofire as an example to illustrate how SPM works for iOS Apps.
