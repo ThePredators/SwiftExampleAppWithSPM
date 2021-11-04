@@ -5,6 +5,7 @@
 //  Created by Samy BENGHALEM on 04/11/2021.
 //
 
+import Alamofire
 import UIKit
 
 @main

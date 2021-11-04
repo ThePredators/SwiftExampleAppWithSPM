@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "99844030ad3a4758f7399ffb7b111c5d72b2d9438296b4ba4b2f0a8039f93a2f"
+build_start_time: [1636017746, 962705135]
+build_end_time: [1636017749, 353337049]
+inputs:
+  "/Users/sbenghalem/Downloads/_Workspace/_Flutter/Aisin/_Ou/GenSwiftProject/GenSwiftProject/AppDelegate.swift": !dirty [1636017584, 203804016]
+  "/Users/sbenghalem/Downloads/_Workspace/_Flutter/Aisin/_Ou/GenSwiftProject/GenSwiftProject/SceneDelegate.swift": !dirty [1636016933, 896159648]
+  "/Users/sbenghalem/Downloads/_Workspace/_Flutter/Aisin/_Ou/GenSwiftProject/GenSwiftProject/ViewController.swift": !dirty [1636016933, 896947383]
